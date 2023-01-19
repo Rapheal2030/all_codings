@@ -1,0 +1,18 @@
+{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+    .containe{
+        width: 650px;
+        border: 2px solid green;
+        border radius: 5px;
+        padding: 5px;
+    background-color: wheat;
+    margin:5px;
+    text-align: center;
+]
+        a:hover{
+            background-color: black;
+    }

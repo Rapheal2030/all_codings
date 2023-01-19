@@ -1,0 +1,14 @@
+.Rapheal{
+    background-color: brown;
+    text-align: center;
+    display: block;
+    height: 100vh;
+    width: 100vw;
+    padding: 0em;
+    color: rgb(12 , 24, 0);
+    border: 0em;
+}
+#one{
+    font-size: 2em;
+    padding: 3em; ;
+}

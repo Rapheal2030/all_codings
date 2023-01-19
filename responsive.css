@@ -1,0 +1,13 @@
+
+.container{
+    font-size: 16px;
+    width: 50vw;
+    height: 100vh;
+    background-color: rgb(240, 240, 255);
+}
+
+#one{
+    font-size: 2em;
+    padding: 3em;
+}
+
