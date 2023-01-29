@@ -1,5 +1,6 @@
 const getPosts = () => {
-    let fetchPosts = fetch("http://jsonplaceholder.typicode.com/posts")
+    // let fetchPosts = fetch("http://jsonplaceholder.typicode.com/posts")
+    let fetchPosts = fetch("./class.json")
     let displayfetch = ""
 
     fetchPosts.then((respond) => {

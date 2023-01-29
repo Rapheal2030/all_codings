@@ -1,0 +1,38 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Ayo",
+      "body": "ankara"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Lookman",
+      "body": "wine"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Chike",
+      "body": "white"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Rapheal",
+      "body": "blue"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Sam",
+      "body": "green"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "DANIEL",
+      "body": "purpul"
+    }
+  ]
